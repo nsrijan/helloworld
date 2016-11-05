@@ -1,2 +1,1 @@
-This is my first git test document.
-This is edited text.
+totally new text for first.txt

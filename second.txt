@@ -1,1 +1,5 @@
-changes to second.
+changes to second:wq
+:q
+.
+blah blah
+
